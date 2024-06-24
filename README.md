@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **asaresamuel6000@gmail.com**
 
-- ⚡ Fun fact **I enjoy continuous growth, learning new stuff and sharing my knowledge:)**
+- ⚡ Fun fact **I enjoy continuous growth, learning new stuff, sharing my knowledge and making people laugh:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
