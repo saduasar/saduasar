@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel Adu Asare</h1>
-<h3 align="center">👨‍💻 DevOps & Cloud Enthusiast. 
-  Passionate DevOps and Cloud Engineer with a knack for troubleshooting and a relentless curiosity for exploring new technologies. Always on the lookout for innovative solutions and efficiencies in the DevOps space. I enjoy diving deep into complex problems and continuously learning to stay ahead in the ever-evolving tech landscape.</h3>
+<h1 align="center">Hi 👋, I'm Samuel Adu Asare | 👨‍💻 DevOps & Cloud Enthusiast </h1>
+<h3 align="center">. Passionate DevOps and Cloud Engineer with a knack for troubleshooting and a relentless curiosity for exploring new technologies. Always on the lookout for innovative solutions and efficiencies in the DevOps space. I enjoy diving deep into complex problems and continuously learning to stay ahead in the ever-evolving tech landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saduasar&label=Profile%20views&color=0e75b6&style=flat" alt="saduasar" /> </p>
 
