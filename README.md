@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, Azure, Kubernetes**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Cloud, IAC, Devops projects, etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saduasar](https://github.com/saduasar)
 
