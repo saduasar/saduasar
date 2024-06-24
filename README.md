@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Devops and Cloud Engineering**
 
-- 🌱 I’m currently learning **AWS, Azure, Kubernetes**
+- 🌱 I’m currently learning **MLops**
 
 - 👯 I’m looking to collaborate on **Cloud, IAC, Devops projects, etc**
 
