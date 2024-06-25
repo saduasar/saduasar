@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saduasar&show_icons=true&locale=en&layout=compact" alt="saduasar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saduasar&show_icons=true&locale=en" alt="saduasar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saduasar&" alt="saduasar" /></p>
